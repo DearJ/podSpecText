@@ -14,8 +14,7 @@
 #import "EKPerson.h"
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        EKPerson *person = [EKPerson alloc];
-        EKPerson *p1 = [person init];
+        
         
     }
     return 0;
